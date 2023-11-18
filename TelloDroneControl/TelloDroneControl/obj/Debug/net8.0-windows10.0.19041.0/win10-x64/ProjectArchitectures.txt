@@ -1,0 +1,1 @@
+C:\Dev\TelloDroneControl\TelloDroneControl\TelloDroneControl\TelloDroneControl.csproj;x64
