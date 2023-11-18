@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TelloDroneControl")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+a9790febeb6bf72b6ae4d7acdd8b773098271398")]
 [assembly: System.Reflection.AssemblyProductAttribute("TelloDroneControl")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TelloDroneControl")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

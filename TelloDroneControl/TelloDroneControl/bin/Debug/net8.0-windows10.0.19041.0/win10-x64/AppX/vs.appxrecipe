@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Dev\TelloDroneControl\TelloDroneControl\TelloDroneControl\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-11-17T17:47:19.761</Modified>
+      <Modified>2023-11-18T12:04:48.169</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Dev\TelloDroneControl\TelloDroneControl\TelloDroneControl\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-11-17T17:45:44.520</Modified>
+      <Modified>2023-11-18T11:43:49.660</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dev\TelloDroneControl\TelloDroneControl\TelloDroneControl\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\TelloDroneControl.runtimeconfig.json">
       <PackagePath>TelloDroneControl.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dev\TelloDroneControl\TelloDroneControl\TelloDroneControl\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\TelloDroneControl.dll">
       <PackagePath>TelloDroneControl.dll</PackagePath>
-      <Modified>2023-11-17T17:47:19.445</Modified>
+      <Modified>2023-11-18T12:04:47.825</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dev\TelloDroneControl\TelloDroneControl\TelloDroneControl\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>TelloDroneControl.exe</PackagePath>
-      <Modified>2023-11-17T17:47:19.455</Modified>
+      <Modified>2023-11-18T12:04:47.841</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dev\TelloDroneControl\TelloDroneControl\TelloDroneControl\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>

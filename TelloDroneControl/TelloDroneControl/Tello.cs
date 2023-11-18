@@ -13,7 +13,7 @@ namespace TelloDroneControl
         private static UdpUser client;
         private static DateTime lastMessageTime;//for connection timeouts.
 
-        public static FlyData state = new FlyData();
+        static FlyData state = new FlyData();
         private static int wifiStrength = 0;
         public static bool connected = false;
 
@@ -928,6 +928,8 @@ namespace TelloDroneControl
 
             return packet;
         }
+
+        /*
         public class FlyData
         {
             public int flyMode;
@@ -1204,6 +1206,7 @@ namespace TelloDroneControl
                 return sb.ToString();
             }
         }
+        */
 
     }
 }
